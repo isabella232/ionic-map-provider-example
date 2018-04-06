@@ -1,0 +1,5 @@
+.sourcemaps
+node_modules/
+platforms/
+.editorconfig
+package-lock.json
